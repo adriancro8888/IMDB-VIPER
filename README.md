@@ -7,7 +7,8 @@ This is an IMDb clone app for iOS
 Used 3rd party libraries 
  * [Alamofire](https://github.com/Alamofire/Alamofire) to fetch HTTPS data.
  * [KingFisher](https://github.com/onevcat/Kingfisher) to cache images.
- 
+
+<p float="left">
 # Home Screen
 
 <img src="https://user-images.githubusercontent.com/109242794/200138740-e61803f4-21a4-45bd-8db3-a40d54622cf0.png" alt="Simulator Screen Shot - iPhone 11 - 2022-11-05 at 22 59 26" width="300" height="593"/>
@@ -20,4 +21,4 @@ Used 3rd party libraries
 # Details and Suggestions Screen
 
 <img src="https://user-images.githubusercontent.com/109242794/200138966-a233cd21-e0b4-4f8e-8b85-436493e6b028.png" alt="Simulator Screen Shot - iPhone 11 - 2022-11-05 at 23 06 29" width="300" height="593"/>
-
+</p>
